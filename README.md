@@ -1,4 +1,4 @@
-Download and run the Jupyter notebook named 'Inferring_urban_polycentricity_from_the_variability_in_human_mobility_patterns.ipynb' in order to understand to what extent London and Seoul are polycentric.
+Download and run the Jupyter notebook named 'Inferring_urban_polycentricity_from_the_variability_in_human_mobility_patterns.ipynb' in order to learn more about how far London and Seoul are from being monocentric cities.
 
 This is done using smart travel card data from London's and Seoul's public transport network.
 
